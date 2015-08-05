@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Replace [title](https://github.com/calebthompson/title) gem with [metamagic](https://github.com/lassebunk/metamagic)
+- Add [Slim-Lint] for reporting violations of Ryby style guide in `.slim` templates
 
 ## 1.4 - 2015-07-31
 

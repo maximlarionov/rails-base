@@ -67,6 +67,7 @@ group :development, :test do
   gem "rspec-rails", "~> 3.0"
   gem "rubocop"
   gem "scss_lint", require: false
+  gem "slim_lint", require: false
 end
 
 group :development do
